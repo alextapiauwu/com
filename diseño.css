@@ -1,0 +1,17 @@
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+img {
+  max-width: 170px;
+  height: auto;
+  
+}
+div img{
+  max-width: 800px;
+  height: auto;
+  
+}
